@@ -1,0 +1,2 @@
+# AddressablesAssets
+测试Addressables资源更新
